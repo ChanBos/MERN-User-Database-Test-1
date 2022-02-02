@@ -1,0 +1,35 @@
+/* Set the padding and text alignment of the application. */
+.App {
+  text-align: center;
+  padding: 0px 20px;
+}
+
+/* Set the padding of the h1 headers and added a bottom border (styled, coloured and sized). */
+h1 {
+  padding: 20px;
+  border-bottom: 1px solid #000000;
+}
+
+/* Set the top padding and the font weight of the form labels. */
+.form-label {
+  padding-top: 20px;
+  font-weight: bold;
+}
+
+/* Set the required label's content and the font colour, weight and size. */
+/* .form-group.required .control-label:after {
+  content: "*";
+  font-weight: bold;
+  font-size: 0.7rem;
+  color: red;
+} */
+
+/* Set the margins of the buttons. */
+.form-btn {
+  margin: 20px;
+}
+
+/* Vertically aligned table data cell contents. */
+td {
+  vertical-align: middle !important;
+}
